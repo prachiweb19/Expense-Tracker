@@ -1,0 +1,26 @@
+.expense-form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.expense-form input {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.expense-form button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #4caf50, #81c784);
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.expense-form button:hover {
+  background: linear-gradient(90deg, #388e3c, #66bb6a);
+}
