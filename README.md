@@ -40,7 +40,7 @@ Builds the app for production to the build folder.
 
 1. Clone or download this repository
 
-Check it out here:
+Check it out here: https://prachiweb19.github.io/Expense-Tracker
 
 ⭐ If you like this project, please give it a star!
 
