@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A simple and responsive Expense Tracker built using *React.js* that helps users manage their daily expenses and visualize spending trends.
+A simple and responsive Expense Tracker built using React.js that helps users manage their daily expenses and visualize spending trends.
 
 ---
 
@@ -14,9 +14,9 @@ A simple and responsive Expense Tracker built using *React.js* that helps users 
 ---
 
 ## 🧠 Tech Stack
-- *Frontend:* React.js, HTML, CSS, JavaScript  
-- *State Management:* useState, useEffect Hooks  
-- *Storage:* LocalStorage  
+- Frontend: React.js, HTML, CSS, JavaScript  
+- State Management: useState, useEffect Hooks  
+- Storage: LocalStorage  
 
 ---
 
@@ -36,3 +36,10 @@ The page will reload when you make changes.
 Builds the app for production to the build folder.
 
 ---
+## 🧩 How to Use
+
+1. Clone or download this repository
+
+Check it out here: https://prachiweb19.github.io/Expense-Tracker
+
+⭐ If you like this project, please give it a star!
